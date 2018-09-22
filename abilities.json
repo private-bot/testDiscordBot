@@ -1,0 +1,2094 @@
+﻿{
+	"id": 900,
+	"ENname": "EN Name",
+	"Ability": "Effect",
+	"Bonus": ""
+},
+{
+	"JPname": "パワーⅠ",
+	"ENname": "Power I",
+	"Ability": "S-ATK+10",
+	"Bonus": ""
+},
+{
+	"JPname": "パワーⅡ",
+	"ENname": "Power II",
+	"Ability": "S-ATK+20",
+	"Bonus": ""
+},
+{
+	"JPname": "パワーⅢ",
+	"ENname": "Power III",
+	"Ability": "S-ATK+30",
+	"Bonus": ""
+},
+{
+	"JPname": "パワーⅣ",
+	"ENname": "Power IV",
+	"Ability": "S-ATK+35",
+	"Bonus": ""
+},
+{
+	"JPname": "パワーⅤ",
+	"ENname": "Power V",
+	"Ability": "S-ATK+40",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・パワーⅠ",
+	"ENname": "Lesser Power I",
+	"Ability": "S-ATK +5",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・パワーⅡ",
+	"ENname": "Lesser Power II",
+	"Ability": "S-ATK +15",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・パワーⅢ",
+	"ENname": "Lesser Power III",
+	"Ability": "S-ATK +25",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・パワーⅣ",
+	"ENname": "Lesser Power IV",
+	"Ability": "S-ATK +30",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・パワーⅤ",
+	"ENname": "Lesser Power V",
+	"Ability": "S-ATK +35",
+	"Bonus": ""
+},
+{
+	"JPname": "シュートⅠ",
+	"ENname": "Shoot I",
+	"Ability": "R-ATK+10",
+	"Bonus": ""
+},
+{
+	"JPname": "シュートⅡ",
+	"ENname": "Shoot II",
+	"Ability": "R-ATK+20",
+	"Bonus": ""
+},
+{
+	"JPname": "シュートⅢ",
+	"ENname": "Shoot III",
+	"Ability": "R-ATK+30",
+	"Bonus": ""
+},
+{
+	"JPname": "シュートⅣ",
+	"ENname": "Shoot IV",
+	"Ability": "R-ATK+35",
+	"Bonus": ""
+},
+{
+	"JPname": "シュートⅤ",
+	"ENname": "Shoot V",
+	"Ability": "R-ATK+40",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・シュートⅠ",
+	"ENname": "Lesser Shoot I",
+	"Ability": "R-ATK+5",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・シュートⅡ",
+	"ENname": "Lesser Shoot II",
+	"Ability": "R-ATK+15",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・シュートⅢ",
+	"ENname": "Lesser Shoot III",
+	"Ability": "R-ATK+25",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・シュートⅣ",
+	"ENname": "Lesser Shoot IV",
+	"Ability": "R-ATK+30",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・シュートⅤ",
+	"ENname": "Lesser Shoot V",
+	"Ability": "R-ATK+35",
+	"Bonus": ""
+},
+{
+	"JPname": "テクニックⅠ",
+	"ENname": "Technique I",
+	"Ability": "T-ATK+10",
+	"Bonus": ""
+},
+{
+	"JPname": "テクニックⅡ",
+	"ENname": "Technique II",
+	"Ability": "T-ATK+20",
+	"Bonus": ""
+},
+{
+	"JPname": "テクニックⅢ",
+	"ENname": "Technique III",
+	"Ability": "T-ATK+30",
+	"Bonus": ""
+},
+{
+	"JPname": "テクニックⅣ",
+	"ENname": "Technique IV",
+	"Ability": "T-ATK+35",
+	"Bonus": ""
+},
+{
+	"JPname": "テクニックⅤ",
+	"ENname": "Technique V",
+	"Ability": "T-ATK+40",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・テクニックⅠ",
+	"ENname": "Lesser Technique I",
+	"Ability": "T-ATK+5",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・テクニックⅡ",
+	"ENname": "Lesser Technique II",
+	"Ability": "T-ATK+15",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・テクニックⅢ",
+	"ENname": "Lesser Technique III",
+	"Ability": "T-ATK+25",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・テクニックⅣ",
+	"ENname": "Lesser Technique IV",
+	"Ability": "T-ATK+30",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・テクニックⅤ",
+	"ENname": "Lesser Technique V",
+	"Ability": "T-ATK+35",
+	"Bonus": ""
+},
+{
+	"JPname": "アームⅠ",
+	"ENname": "Arm I",
+	"Ability": "DEX+10",
+	"Bonus": ""
+},
+{
+	"JPname": "アームⅡ",
+	"ENname": "Arm II",
+	"Ability": "DEX+20",
+	"Bonus": ""
+},
+{
+	"JPname": "アームⅢ",
+	"ENname": "Arm III",
+	"Ability": "DEX+30",
+	"Bonus": ""
+},
+{
+	"JPname": "アームⅣ",
+	"ENname": "Arm IV",
+	"Ability": "DEX+35",
+	"Bonus": ""
+},
+{
+	"JPname": "アームⅤ",
+	"ENname": "Arm V",
+	"Ability": "DEX+40",
+	"Bonus": ""
+},
+{
+	"JPname": "ボディⅠ",
+	"ENname": "Body I",
+	"Ability": "S-DEF+10",
+	"Bonus": ""
+},
+{
+	"JPname": "ボディⅡ",
+	"ENname": "Body II",
+	"Ability": "S-DEF+20",
+	"Bonus": ""
+},
+{
+	"JPname": "ボディⅢ",
+	"ENname": "Body III",
+	"Ability": "S-DEF+30",
+	"Bonus": ""
+},
+{
+	"JPname": "ボディⅣ",
+	"ENname": "Body IV",
+	"Ability": "S-DEF+35",
+	"Bonus": ""
+},
+{
+	"JPname": "ボディⅤ",
+	"ENname": "Body V",
+	"Ability": "S-DEF+40",
+	"Bonus": ""
+},
+{
+	"JPname": "リアクトⅠ",
+	"ENname": "React I",
+	"Ability": "R-DEF+10",
+	"Bonus": ""
+},
+{
+	"JPname": "リアクトⅡ",
+	"ENname": "React II",
+	"Ability": "R-DEF+20",
+	"Bonus": ""
+},
+{
+	"JPname": "リアクトⅢ",
+	"ENname": "React III",
+	"Ability": "R-DEF+30",
+	"Bonus": ""
+},
+{
+	"JPname": "リアクトⅣ",
+	"ENname": "React IV",
+	"Ability": "R-DEF+35",
+	"Bonus": ""
+},
+{
+	"JPname": "リアクトⅤ",
+	"ENname": "React V",
+	"Ability": "R-DEF+40",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドⅠ",
+	"ENname": "Mind I",
+	"Ability": "T-DEF+10",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドⅡ",
+	"ENname": "Mind II",
+	"Ability": "T-DEF+20",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドⅢ",
+	"ENname": "Mind III",
+	"Ability": "T-DEF+30",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドⅣ",
+	"ENname": "Mind IV",
+	"Ability": "T-DEF+35",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドⅤ",
+	"ENname": "Mind V",
+	"Ability": "T-DEF+40",
+	"Bonus": ""
+},
+{
+	"JPname": "アビリティⅠ",
+	"ENname": "Ability I",
+	"Ability": "ALL+5",
+	"Bonus": ""
+},
+{
+	"JPname": "アビリティⅡ",
+	"ENname": "Ability II",
+	"Ability": "ALL+10",
+	"Bonus": ""
+},
+{
+	"JPname": "アビリティⅢ",
+	"ENname": "Ability III",
+	"Ability": "ALL+15",
+	"Bonus": ""
+},
+{
+	"JPname": "アビリティⅣ",
+	"ENname": "Ability IV",
+	"Ability": "ALL+20",
+	"Bonus": ""
+},
+{
+	"JPname": "アビリティⅤ",
+	"ENname": "Ability V",
+	"Ability": "ALL+25",
+	"Bonus": ""
+},
+{
+	"JPname": "スタミナⅠ",
+	"ENname": "Stamina I",
+	"Ability": "HP+20",
+	"Bonus": ""
+},
+{
+	"JPname": "スタミナⅡ",
+	"ENname": "Stamina II",
+	"Ability": "HP+40",
+	"Bonus": ""
+},
+{
+	"JPname": "スタミナⅢ",
+	"ENname": "Stamina III",
+	"Ability": "HP+50",
+	"Bonus": ""
+},
+{
+	"JPname": "スタミナⅣ",
+	"ENname": "Stamina IV",
+	"Ability": "HP+60",
+	"Bonus": ""
+},
+{
+	"JPname": "スタミナⅤ",
+	"ENname": "Stamina V",
+	"Ability": "HP+70",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スタミナⅠ",
+	"ENname": "Lesser Stam. I",
+	"Ability": "HP+15",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スタミナⅡ",
+	"ENname": "Lesser Stam. II",
+	"Ability": "HP+35",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スタミナⅢ",
+	"ENname": "Lesser Stam. III",
+	"Ability": "HP+45",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スタミナⅣ",
+	"ENname": "Lesser Stam. IV",
+	"Ability": "HP+55",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スタミナⅤ",
+	"ENname": "Lesser Stam. V",
+	"Ability": "HP+65",
+	"Bonus": ""
+},
+{
+	"JPname": "スピリタⅠ",
+	"ENname": "Spirita I",
+	"Ability": "PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "スピリタⅡ",
+	"ENname": "Spirita II",
+	"Ability": "PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "スピリタⅢ",
+	"ENname": "Spirita III",
+	"Ability": "PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "スピリタⅣ",
+	"ENname": "Spirita IV",
+	"Ability": "PP+5",
+	"Bonus": ""
+},
+{
+	"JPname": "スピリタⅤ",
+	"ENname": "Spirita V",
+	"Ability": "PP+6",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スピリタⅠ",
+	"ENname": "Lesser Spirita I",
+	"Ability": "PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スピリタⅡ",
+	"ENname": "Lesser Spirita II",
+	"Ability": "PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スピリタⅢ",
+	"ENname": "Lesser Spirita III",
+	"Ability": "PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スピリタⅣ",
+	"ENname": "Lesser Spirita IV",
+	"Ability": "PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "レッサー・スピリタⅤ",
+	"ENname": "Lesser Spirita V",
+	"Ability": "PP+5",
+	"Bonus": ""
+},
+{
+	"JPname": "JP Name",
+	"ENname": "EN Name",
+	"Ability": "Effect",
+	"Bonus": ""
+},
+{
+	"JPname": "モデュレイター",
+	"ENname": "Modulator",
+	"Ability": "S-ATK+30 R-ATK+30 T-ATK+30",
+	"Bonus": ""
+},
+{
+	"JPname": "ミューテーションⅠ",
+	"ENname": "Mutation I",
+	"Ability": "Increases specific synthetic probability. ATK+10 HP+10",
+	"Bonus": ""
+},
+{
+	"JPname": "ミューテーションⅡ",
+	"ENname": "Mutation II",
+	"Ability": "Increases specific synthetic probability. S-ATK+15 R-ATK+15 T-ATK+15 HP+15",
+	"Bonus": ""
+},
+{
+	"JPname": "ウィンクルム",
+	"ENname": "Vinculum",
+	"Ability": "S-ATK+20 R-ATK+20 T-ATK+20",
+	"Bonus": ""
+},
+{
+	"JPname": "スティグマ",
+	"ENname": "Stigma",
+	"Ability": "DEX+20 PP+5",
+	"Bonus": ""
+},
+{
+	"JPname": "アルター・アルマ",
+	"ENname": "Alter Arma",
+	"Ability": "S-ATK+20 HP+30",
+	"Bonus": ""
+},
+{
+	"JPname": "アルター・ティロ",
+	"ENname": "Alter Tiro",
+	"Ability": "R-ATK+20 HP+30",
+	"Bonus": ""
+},
+{
+	"JPname": "アルター・マギア",
+	"ENname": "Alter Magia",
+	"Ability": "T-ATK+20 HP+30",
+	"Bonus": ""
+},
+{
+	"JPname": "フリクト・アルマ",
+	"ENname": "Flict Arma",
+	"Ability": "S-ATK+20 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "フリクト・ティロ",
+	"ENname": "Flict Tiro",
+	"Ability": "R-ATK+20 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "フリクト・マギア",
+	"ENname": "Flict Magia",
+	"Ability": "T-ATK+20 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "マーク・ジョイオ",
+	"ENname": "Mark Joyo",
+	"Ability": "S-ATK+40 R-ATK+40 T-ATK+40 HP+50",
+	"Bonus": ""
+},
+{
+	"JPname": "マーク・カレジナ",
+	"ENname": "Mark Couragena",
+	"Ability": "S-ATK+40 R-ATK+40 T-ATK+40 PP+5",
+	"Bonus": ""
+},
+{
+	"JPname": "マーク・アンガル",
+	"ENname": "Mark Angar",
+	"Ability": "S-ATK+40 R-ATK+40 T-ATK+40 DEX+40",
+	"Bonus": ""
+},
+{
+	"JPname": "マーク・グリフ",
+	"ENname": "Mark Grif",
+	"Ability": "S-DEF+50 R-DEF+50 T-DEF+50 HP+80",
+	"Bonus": ""
+},
+{
+	"JPname": "ドゥームブレイク",
+	"ENname": "Doom Break",
+	"Ability": "S-ATK+15 R-ATK+15 T-ATK+15 PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "パワー・ブースト",
+	"ENname": "Power Boost",
+	"Ability": "S-ATK+25",
+	"Bonus": ""
+},
+{
+	"JPname": "シュート・ブースト",
+	"ENname": "Shooting Boost",
+	"Ability": "R-ATK+25",
+	"Bonus": ""
+},
+{
+	"JPname": "テクニック・ブースト",
+	"ENname": "Technique Boost",
+	"Ability": "T-ATK+25",
+	"Bonus": ""
+},
+{
+	"JPname": "スタミナ・ブースト",
+	"ENname": "Stamina Boost",
+	"Ability": "HP+45",
+	"Bonus": ""
+},
+{
+	"JPname": "スピリタ・ブースト",
+	"ENname": "Spirita Boost",
+	"Ability": "PP+5",
+	"Bonus": ""
+},
+{
+	"JPname": "ノーブル・パワー",
+	"ENname": "Noble Power",
+	"Ability": "S-ATK+30 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "ノーブル・シュート",
+	"ENname": "Noble Shoot",
+	"Ability": "R-ATK+30 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "ノーブル・テクニック",
+	"ENname": "Noble Technique",
+	"Ability": "T-ATK+30 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "ノーブル・スタミナ",
+	"ENname": "Noble Stamina",
+	"Ability": "HP+50 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "テノラ・ブースト",
+	"ENname": "Tenora Boost",
+	"Ability": "S-ATK+35",
+	"Bonus": ""
+},
+{
+	"JPname": "ＧＲＭ・ブースト",
+	"ENname": "GRM Boost",
+	"Ability": "R-ATK+35",
+	"Bonus": ""
+},
+{
+	"JPname": "ヨウメイ・ブースト",
+	"ENname": "Yohmei Boost",
+	"Ability": "T-ATK+35",
+	"Bonus": ""
+},
+{
+	"JPname": "エレガント・パワー",
+	"ENname": "Elegant Power",
+	"Ability": "S-ATK +40 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "エレガント・シュート",
+	"ENname": "Elegant Shoot",
+	"Ability": "R-ATK +40 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "エレガント・テクニック",
+	"ENname": "Elegant Technique",
+	"Ability": "T-ATK +40 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "エレガント・スタミナ",
+	"ENname": "Elegant Stamina",
+	"Ability": "HP +70 PP +4",
+	"Bonus": ""
+},
+{
+	"JPname": "グレース・パワー",
+	"ENname": "Grace Power",
+	"Ability": "S-ATK +50 PP +5",
+	"Bonus": ""
+},
+{
+	"JPname": "グレース・シュート",
+	"ENname": "Grace Shoot",
+	"Ability": "R-ATK +50 PP +5",
+	"Bonus": ""
+},
+{
+	"JPname": "グレース・テクニック",
+	"ENname": "Grace Technique",
+	"Ability": "T-ATK +50 PP +5",
+	"Bonus": ""
+},
+{
+	"JPname": "グレース・スタミナ",
+	"ENname": "Grace Stamina",
+	"Ability": "HP +80 PP +5",
+	"Bonus": ""
+},
+{
+	"JPname": "ヤマト・ファクター",
+	"ENname": "Yamato Factor",
+	"Ability": "S-ATK+10 R-ATK+20 T-ATK+10 HP+20 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "マザー・ファクター",
+	"ENname": "Mother Factor",
+	"Ability": "S-ATK+10 R-ATK+10 T-ATK+20 HP+20 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "デウス・ファクター",
+	"ENname": "Deus Factor",
+	"Ability": "S-ATK+20 R-ATK+10 T-ATK+10 HP+20 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "エーテル・ファクター",
+	"ENname": "Ether Factor",
+	"Ability": "All+30 HP+10 PP+6",
+	"Bonus": ""
+},
+{
+	"JPname": "オメガ・レヴリー",
+	"ENname": "Omega Reverie",
+	"Ability": "S-ATK+15 R-ATK+15 T-ATK+15 HP+20 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "エルダー・レヴリー",
+	"ENname": "Elder Reverie",
+	"Ability": "S-ATK+40 R-ATK+20 T-ATK+20 PP-2",
+	"Bonus": ""
+},
+{
+	"JPname": "ルーサー・レヴリー",
+	"ENname": "Loser Reverie",
+	"Ability": "S-ATK+20 R-ATK+20 T-ATK+40 HP-20",
+	"Bonus": ""
+},
+{
+	"JPname": "アプレジナ・レヴリー",
+	"ENname": "Apprezina Reverie",
+	"Ability": "S-ATK+20 R-ATK+40 T-ATK+20 HP-10 PP-1",
+	"Bonus": ""
+},
+{
+	"JPname": "",
+	"ENname": "Double Reverie",
+	"Ability": "S-ATK-20 R-ATK-20 T-ATK-20 HP+50 PP+5",
+	"Bonus": ""
+},
+{
+	"JPname": "スピリタ・アルファ",
+	"ENname": "Spirita Alpha",
+	"Ability": "DEX+30 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "リターナーⅠ",
+	"ENname": "Returner I",
+	"Ability": "ALL+5 HP+3 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "リターナーⅡ",
+	"ENname": "Returner II",
+	"Ability": "ALL+5 HP+5 PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "リターナーⅢ",
+	"ENname": "Returner III",
+	"Ability": "ALL+10 HP+10 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "リターナーⅣ",
+	"ENname": "Returner IV",
+	"Ability": "ALL+15 HP+15 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "リターナーⅤ",
+	"ENname": "Returner V",
+	"Ability": "ALL+30 HP+30 PP+5",
+	"Bonus": ""
+},
+{
+	"JPname": "ネッキー・スマイル",
+	"ENname": "Necky Smile",
+	"Ability": "S-ATK+5 R-ATK+5 T-ATK+5 PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "アクス・ＭＡＸ",
+	"ENname": "ARKS MAX",
+	"Ability": "S-ATK+25 R-ATK+25 T-ATK+25",
+	"Bonus": ""
+},
+{
+	"JPname": "センテンス・パワー",
+	"ENname": "Sentence Power",
+	"Ability": "S-ATK+20 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "センテンス・シュート",
+	"ENname": "Sentence Shoot",
+	"Ability": "R-ATK+20 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "センテンス・テクニック",
+	"ENname": "Sentence Tech",
+	"Ability": "T-ATK+20 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "センテンス・テクニック",
+	"ENname": "Sentence Triple",
+	"Ability": "S-ATK+30 R-ATK+30 T-ATK+30",
+	"Bonus": ""
+},
+{
+	"JPname": "センテンス・アルマ",
+	"ENname": "Sentence Arma",
+	"Ability": "S-ATK+20 HP+20 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "センテンス・ティロ",
+	"ENname": "Sentence Tiro",
+	"Ability": "R-ATK+20 HP+20 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "センテンス・マギア",
+	"ENname": "Sentence Magia",
+	"Ability": "T-ATK+20 HP+20 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "EV・パワーHP",
+	"ENname": "EV Power/HP",
+	"Ability": "S-ATK+35 HP+60",
+	"Bonus": ""
+},
+{
+	"JPname": "EV・パワーPP",
+	"ENname": "EV Power/PP",
+	"Ability": "S-ATK+35 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "EV・シュートHP",
+	"ENname": "EV Shoot/HP",
+	"Ability": "R-ATK+35 HP+60",
+	"Bonus": ""
+},
+{
+	"JPname": "EV・シュートPP",
+	"ENname": "EV Shoot/PP",
+	"Ability": "R-ATK+35 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "EV・テクニックHP",
+	"ENname": "EV Tech/HP",
+	"Ability": "T-ATK+35 HP+60",
+	"Bonus": ""
+},
+{
+	"JPname": "EV・テクニックPP",
+	"ENname": "EV Tech/PP",
+	"Ability": "T-ATK+35 PP+4",
+	"Bonus": ""
+},
+{
+	"JPname": "JP Name",
+	"ENname": "EN Name",
+	"Ability": "Effect",
+	"Bonus": ""
+},
+{
+	"JPname": "ブロウレジストⅠ",
+	"ENname": "Blow Resist I",
+	"Ability": "Strike Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "ブロウレジストⅡ",
+	"ENname": "Blow Resist II",
+	"Ability": "Strike Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "ブロウレジストⅢ",
+	"ENname": "Blow Resist III",
+	"Ability": "Strike Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "ブロウレジストⅣ",
+	"ENname": "Blow Resist IV",
+	"Ability": "Strike Resistance +6",
+	"Bonus": ""
+},
+{
+	"JPname": "ブロウレジストⅤ",
+	"ENname": "Blow Resist V",
+	"Ability": "Strike Resistance +7",
+	"Bonus": ""
+},
+{
+	"JPname": "ショットレジストⅠ",
+	"ENname": "Shot Resist I",
+	"Ability": "Range Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "ショットレジストⅡ",
+	"ENname": "Shot Resist II",
+	"Ability": "Range Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "ショットレジストⅢ",
+	"ENname": "Shot Resist III",
+	"Ability": "Range Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "ショットレジストⅣ",
+	"ENname": "Shot Resist IV",
+	"Ability": "Range Resistance +6",
+	"Bonus": ""
+},
+{
+	"JPname": "ショットレジストⅤ",
+	"ENname": "Shot Resist V",
+	"Ability": "Range Resistance +7",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドレジストⅠ",
+	"ENname": "Mind Resist I",
+	"Ability": "Tech Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドレジストⅡ",
+	"ENname": "Mind Resist II",
+	"Ability": "Tech Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドレジストⅢ",
+	"ENname": "Mind Resist III",
+	"Ability": "Tech Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドレジストⅣ",
+	"ENname": "Mind Resist IV",
+	"Ability": "Tech Resistance +6",
+	"Bonus": ""
+},
+{
+	"JPname": "マインドレジストⅤ",
+	"ENname": "Mind Resist V",
+	"Ability": "Tech Resistance +7",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイムレジストⅠ",
+	"ENname": "Flame Resist I",
+	"Ability": "Fire Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイムレジストⅡ",
+	"ENname": "Flame Resist II",
+	"Ability": "Fire Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイムレジストⅢ",
+	"ENname": "Flame Resist III",
+	"Ability": "Fire Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイムレジストⅣ",
+	"ENname": "Flame Resist IV",
+	"Ability": "Fire Resistance +6",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイムレジストⅤ",
+	"ENname": "Flame Resist V",
+	"Ability": "Fire Resistance +7",
+	"Bonus": ""
+},
+{
+	"JPname": "アイスレジストⅠ",
+	"ENname": "Ice Resist I",
+	"Ability": "Ice Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "アイスレジストⅡ",
+	"ENname": "Ice Resist II",
+	"Ability": "Ice Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "アイスレジストⅢ",
+	"ENname": "Ice Resist III",
+	"Ability": "Ice Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "アイスレジストⅣ",
+	"ENname": "Ice Resist IV",
+	"Ability": "Ice Resistance +6",
+	"Bonus": ""
+},
+{
+	"JPname": "アイスレジストⅤ",
+	"ENname": "Ice Resist V",
+	"Ability": "Ice Resistance +7",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックレジストⅠ",
+	"ENname": "Shock Resist I",
+	"Ability": "Lightning Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックレジストⅡ",
+	"ENname": "Shock Resist II",
+	"Ability": "Lightning Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックレジストⅢ",
+	"ENname": "Shock Resist III",
+	"Ability": "Lightning Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックレジストⅣ",
+	"ENname": "Shock Resist IV",
+	"Ability": "Lightning Resistance +6",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックレジストⅤ",
+	"ENname": "Shock Resist V",
+	"Ability": "Lightning Resistance +7",
+	"Bonus": ""
+},
+{
+	"JPname": "ウィンドレジストⅠ",
+	"ENname": "Wind Resist I",
+	"Ability": "Wind Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "ウィンドレジストⅡ",
+	"ENname": "Wind Resist II",
+	"Ability": "Wind Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "ウィンドレジストⅢ",
+	"ENname": "Wind Resist III",
+	"Ability": "Wind Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "ウィンドレジストⅣ",
+	"ENname": "Wind Resist IV",
+	"Ability": "Wind Resistance +6",
+	"Bonus": ""
+},
+{
+	"JPname": "ウィンドレジストⅤ",
+	"ENname": "Wind Resist V",
+	"Ability": "Wind Resistance +7",
+	"Bonus": ""
+},
+{
+	"JPname": "ライトレジストⅠ",
+	"ENname": "Light Resist I",
+	"Ability": "Light Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "ライトレジストⅡ",
+	"ENname": "Light Resist II",
+	"Ability": "Light Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "ライトレジストⅢ",
+	"ENname": "Light Resist III",
+	"Ability": "Light Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "ライトレジストⅣ",
+	"ENname": "Light Resist IV",
+	"Ability": "Light Resistance +6",
+	"Bonus": ""
+},
+{
+	"JPname": "ライトレジストⅤ",
+	"ENname": "Light Resist V",
+	"Ability": "Light Resistance +7",
+	"Bonus": ""
+},
+{
+	"JPname": "グルームレジストⅠ",
+	"ENname": "Gloom Resist I",
+	"Ability": "Dark Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "グルームレジストⅡ",
+	"ENname": "Gloom Resist II",
+	"Ability": "Dark Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "グルームレジストⅢ",
+	"ENname": "Gloom Resist III",
+	"Ability": "Dark Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "グルームレジストⅣ",
+	"ENname": "Gloom Resist IV",
+	"Ability": "Dark Resistance +6",
+	"Bonus": ""
+},
+{
+	"JPname": "グルームレジストⅤ",
+	"ENname": "Gloom Resist V",
+	"Ability": "Dark Resistance +7",
+	"Bonus": ""
+},
+{
+	"JPname": "オールレジストⅠ",
+	"ENname": "All Resist I",
+	"Ability": "All Resistance +1",
+	"Bonus": ""
+},
+{
+	"JPname": "オールレジストⅡ",
+	"ENname": "All Resist II",
+	"Ability": "All Resistance +2",
+	"Bonus": ""
+},
+{
+	"JPname": "オールレジストⅢ",
+	"ENname": "All Resist III",
+	"Ability": "All Resistance +3",
+	"Bonus": ""
+},
+{
+	"JPname": "オールレジストⅣ",
+	"ENname": "All Resist IV",
+	"Ability": "All Resistance +4",
+	"Bonus": ""
+},
+{
+	"JPname": "オールレジストⅤ",
+	"ENname": "All Resist V",
+	"Ability": "All Resistance +5",
+	"Bonus": ""
+},
+{
+	"JPname": "JP Name",
+	"ENname": "EN Name",
+	"Ability": "Effect",
+	"Bonus": ""
+},
+{
+	"JPname": "バーンⅠ",
+	"ENname": "Burn I",
+	"Ability": "バーンLv.1を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "バーンⅡ",
+	"ENname": "Burn II",
+	"Ability": "バーンLv.2を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "バーンⅢ",
+	"ENname": "Burn III",
+	"Ability": "バーンLv.3を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "バーンⅣ",
+	"ENname": "Burn IV",
+	"Ability": "バーンLv.4を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "バーンⅤ",
+	"ENname": "Burn V",
+	"Ability": "バーンLv.5を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "フリーズⅠ",
+	"ENname": "Freeze I",
+	"Ability": "フリーズLv.1を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "フリーズⅡ",
+	"ENname": "Freeze II",
+	"Ability": "フリーズLv.2を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "フリーズⅢ",
+	"ENname": "Freeze III",
+	"Ability": "フリーズLv.3を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "フリーズⅣ",
+	"ENname": "Freeze IV",
+	"Ability": "フリーズLv.4を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "フリーズⅤ",
+	"ENname": "Freeze V",
+	"Ability": "フリーズLv.5を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックⅠ",
+	"ENname": "Shock I",
+	"Ability": "ショックLv.1を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックⅡ",
+	"ENname": "Shock II",
+	"Ability": "ショックLv.2を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックⅢ",
+	"ENname": "Shock III",
+	"Ability": "ショックLv.3を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックⅣ",
+	"ENname": "Shock IV",
+	"Ability": "ショックLv.4を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ショックⅤ",
+	"ENname": "Shock V",
+	"Ability": "ショックLv.5を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ミラージュⅠ",
+	"ENname": "Mirage I",
+	"Ability": "ミラージュLv.1を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ミラージュⅡ",
+	"ENname": "Mirage II",
+	"Ability": "ミラージュLv.2を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ミラージュⅢ",
+	"ENname": "Mirage III",
+	"Ability": "ミラージュLv.3を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ミラージュⅣ",
+	"ENname": "Mirage IV",
+	"Ability": "ミラージュLv.4を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ミラージュⅤ",
+	"ENname": "Mirage V",
+	"Ability": "ミラージュLv.5を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ポイズンⅠ",
+	"ENname": "Poison I",
+	"Ability": "ポイズンLv.1を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ポイズンⅡ",
+	"ENname": "Poison II",
+	"Ability": "ポイズンLv.2を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ポイズンⅢ",
+	"ENname": "Poison III",
+	"Ability": "ポイズンLv.3を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ポイズンⅣ",
+	"ENname": "Poison IV",
+	"Ability": "ポイズンLv.4を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "ポイズンⅤ",
+	"ENname": "Poison V",
+	"Ability": "ポイズンLv.5を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "パニックⅠ",
+	"ENname": "Panic I",
+	"Ability": "パニックLv.1を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "パニックⅡ",
+	"ENname": "Panic II",
+	"Ability": "パニックLv.2を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "パニックⅢ",
+	"ENname": "Panic III",
+	"Ability": "パニックLv.3を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "パニックⅣ",
+	"ENname": "Panic IV",
+	"Ability": "パニックLv.4を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "パニックⅤ",
+	"ENname": "Panic V",
+	"Ability": "パニックLv.5を付与する",
+	"Bonus": ""
+},
+{
+	"JPname": "JP Name",
+	"ENname": "EN Name",
+	"Ability": "Effect",
+	"Bonus": ""
+},
+{
+	"JPname": "ラタン・フィーバー",
+	"ENname": "Latan Fever",
+	"Ability": "T-ATK+10 DEX+5 PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "セント・フィーバー",
+	"ENname": "St. Fever",
+	"Ability": "R-ATK+10 DEX+5 PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "ラブ・フィーバー",
+	"ENname": "Love Fever",
+	"Ability": "S-ATK+10 DEX+5 PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "ラヴィ・フィーバー",
+	"ENname": "Lovey Fever",
+	"Ability": "S-ATK+10 DEX+5 HP+10",
+	"Bonus": ""
+},
+{
+	"JPname": "エグ・フィーバー",
+	"ENname": "Egg Fever",
+	"Ability": "R-ATK+10 DEX+5 HP+10",
+	"Bonus": ""
+},
+{
+	"JPname": "フログ・フィーバー",
+	"ENname": "Frog Fever",
+	"Ability": "T-ATK+10 DEX+5 HP+10",
+	"Bonus": ""
+},
+{
+	"JPname": "サマー・フィーバー",
+	"ENname": "Summer Fever",
+	"Ability": "T-ATK+10 DEX+5 HP+5 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "アクス・フィーバー",
+	"ENname": "ARKS Fever",
+	"Ability": "S-ATK+5 R-ATK+5 T-ATK+5 DEX+5 PP+5",
+	"Bonus": ""
+},
+{
+	"JPname": "セレモ・フィーバー",
+	"ENname": "Ceremo Fever",
+	"Ability": "S-ATK+10 DEX+5 HP+5 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "ノイヤ・フィーバー",
+	"ENname": "Noiya Fever",
+	"Ability": "R-ATK+10 DEX+5 HP+5 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "ルーナ・フィーバー",
+	"ENname": "Luna Fever",
+	"Ability": "T-ATK+10 HP+10 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "トロクロ・フィーバー",
+	"ENname": "Toro Kuro Fever",
+	"Ability": "DEX+15 HP+5 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "サクラ・フィーバー",
+	"ENname": "Sakura Fever",
+	"Ability": "S-DEF+10 DEX+5 HP+5 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "ソニック・フィーバー",
+	"ENname": "Sonic Fever",
+	"Ability": "S-ATK+10 R-DEF+10 HP+5 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "サンサン・フィーバー",
+	"ENname": "Sansan Fever",
+	"Ability": "S-ATK+5 R-ATK+5 T-ATK+5 HP+5 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "JP Name",
+	"ENname": "EN Name",
+	"Ability": "Effect",
+	"Bonus": "Boosts"
+},
+{
+	"JPname": "グンネ・ソール",
+	"ENname": "Gunne Soul",
+	"Ability": "S-ATK+15 HP+45",
+	"Bonus": "Power Body Stamina"
+},
+{
+	"JPname": "ジグモル・ソール",
+	"ENname": "Zigmorde Soul",
+	"Ability": "S-ATK+15 PP+4",
+	"Bonus": "Power Mind Spirita Poison"
+},
+{
+	"JPname": "ヴォル・ソール",
+	"ENname": "Vol Soul",
+	"Ability": "S-ATK+30 HP+20",
+	"Bonus": "Power Body Stamina Burn"
+},
+{
+	"JPname": "グワナ・ソール",
+	"ENname": "Gwana Soul",
+	"Ability": "S-ATK+30 HP+10 PP+2",
+	"Bonus": "Power Body Poison"
+},
+{
+	"JPname": "クォーツ・ソール",
+	"ENname": "Quartz Soul",
+	"Ability": "S-ATK+30 PP+3",
+	"Bonus": "Power Body Spirita Panic"
+},
+{
+	"JPname": "デッドリオン・ソール",
+	"ENname": "Deadleon Soul",
+	"Ability": "S-ATK+35 DEX+5 HP+30",
+	"Bonus": "Stigma"
+},
+{
+	"JPname": "レオーネ・ソール",
+	"ENname": "Leone Soul",
+	"Ability": "S-ATK+35 DEX+5 HP+20 PP+1",
+	"Bonus": "Stigma"
+},
+{
+	"JPname": "ベーアリ・ソール",
+	"ENname": "Bayari Soul",
+	"Ability": "S-ATK+35 DEX+5 PP+3",
+	"Bonus": "Stigma"
+},
+{
+	"JPname": "イーデッタ・ソール",
+	"ENname": "Idetta Soul",
+	"Ability": "R-ATK+15 HP+45",
+	"Bonus": "Shoot Stamina Blow Resist Freeze"
+},
+{
+	"JPname": "マドゥ・ソール",
+	"ENname": "Madu Soul",
+	"Ability": "R-ATK+15 PP+4",
+	"Bonus": "Shoot Spirita"
+},
+{
+	"JPname": "ランサ・ソール",
+	"ENname": "Ra'nsaSoul",
+	"Ability": "R-ATK+30 HP+20",
+	"Bonus": "Shoot React Stamina Light Resist"
+},
+{
+	"JPname": "ファング・ソール",
+	"ENname": "Fang Soul",
+	"Ability": "R-ATK+30 HP+10 PP+2",
+	"Bonus": "Shoot React Shock"
+},
+{
+	"JPname": "マイザー・ソール",
+	"ENname": "Mizer Soul",
+	"Ability": "R-ATK+30 PP+3",
+	"Bonus": "Shoot Spirita React Shot Resist"
+},
+{
+	"JPname": "グリュゾラス・ソール",
+	"ENname": "Greuzoras Soul",
+	"Ability": "R-ATK+35 DEX+5 PP+3",
+	"Bonus": "Stigma"
+},
+{
+	"JPname": "レオパード・ソール",
+	"ENname": "Leopard Soul",
+	"Ability": "R-ATK+35 DEX+5 HP30",
+	"Bonus": "Stigma"
+},
+{
+	"JPname": "ジオーグ・ソール",
+	"ENname": "Siorg Soul",
+	"Ability": "R-ATK+35 DEX+5 HP+20 PP+1",
+	"Bonus": "Stigma"
+},
+{
+	"JPname": "ラグネ・ソール",
+	"ENname": "Ragne Soul",
+	"Ability": "T-ATK+30 HP+20",
+	"Bonus": "Technique Mind Stamina Gloom Resist"
+},
+{
+	"JPname": "ウォルガ・ソール",
+	"ENname": "Wolga Soul",
+	"Ability": "T-ATK+30 HP+10 PP+2",
+	"Bonus": "Technique Mind Shock"
+},
+{
+	"JPname": "エルダー・ソール",
+	"ENname": "Elder Soul",
+	"Ability": "T-ATK+30 PP+3",
+	"Bonus": "Technique Spirita Mind"
+},
+{
+	"JPname": "ディアボ・ソール",
+	"ENname": "Diabo Soul",
+	"Ability": "T-ATK+35 DEX+5 HP+30",
+	"Bonus": "Stigma"
+},
+{
+	"JPname": "ドゥバルス・ソール",
+	"ENname": "Duvals Soul",
+	"Ability": "T-ATK+35 DEX+5 HP+20 PP+1",
+	"Bonus": "Stigma"
+},
+{
+	"JPname": "グランゾ・ソール",
+	"ENname": "Guranz Soul",
+	"Ability": "T-ATK+35 DEX+5 PP+3",
+	"Bonus": "Stigma"
+},
+{
+	"JPname": "シグノ・ソール",
+	"ENname": "Signo Soul",
+	"Ability": "DEX+30 HP+20 PP+1",
+	"Bonus": "Arm Stamina Mirage"
+},
+{
+	"JPname": "マルモ・ソール",
+	"ENname": "Malmo Soul",
+	"Ability": "R-DEF+30 HP+20 PP+1",
+	"Bonus": "Shoot React Stamina Freeze"
+},
+{
+	"JPname": "ヴァーダー・ソール",
+	"ENname": "Vardha Soul",
+	"Ability": "R-DEF+30 PP+4",
+	"Bonus": "Shoot React Spirita Wind Resist"
+},
+{
+	"JPname": "キャタ・ソール",
+	"ENname": "Cater Soul",
+	"Ability": "T-DEF+30 HP+20 PP+1",
+	"Bonus": "Technique Mind Stamina Fire Resist"
+},
+{
+	"JPname": "ロックベア・ソール",
+	"ENname": "Rockbear Soul",
+	"Ability": "S-DEF+30 HP+10 PP+3",
+	"Bonus": "Power Body Blow Resist"
+},
+{
+	"JPname": "スノウ・ソール",
+	"ENname": "Snow Soul",
+	"Ability": "S-DEF+30 HP+20 PP+1",
+	"Bonus": "Power Body Stamina Ice Resist"
+},
+{
+	"JPname": "ラッピー・ソール",
+	"ENname": "Rappy Soul",
+	"Ability": "DEX+30 PP+4",
+	"Bonus": "Arm Spirita Light Resist"
+},
+{
+	"JPname": "シュレイダ・ソール",
+	"ENname": "Shrayda Soul",
+	"Ability": "T-DEF+30 HP+10 PP+3",
+	"Bonus": "Technique Mind Mind Resist Burn"
+},
+{
+	"JPname": "クローム・ソール",
+	"ENname": "Chrome Soul",
+	"Ability": "DEX+30 HP+10 PP+3",
+	"Bonus": "Arm Stamina Spirita Panic"
+},
+{
+	"JPname": "ゴロン・ソール",
+	"ENname": "Goron Soul",
+	"Ability": "T-DEF+30 PP+4",
+	"Bonus": "Technique Mind Spirita Shot Resist Mind Resist"
+},
+{
+	"JPname": "エクス・ソール",
+	"ENname": "Ex Soul",
+	"Ability": "S-DEF+30 PP+4",
+	"Bonus": "Power Body Spirita Blow Resist"
+},
+{
+	"JPname": "ペルソナ・ソール",
+	"ENname": "Persona Soul",
+	"Ability": "R-DEF+30 HP+10 PP+3",
+	"Bonus": "Shoot React Mirage"
+},
+{
+	"JPname": "クーガー・ソール",
+	"ENname": "Cougar Soul",
+	"Ability": "S-ATK+15 R-ATK+15 T-ATK+15 DEX+15 HP+10 PP+2",
+	"Bonus": "Arm"
+},
+{
+	"JPname": "オルグ・ソール",
+	"ENname": "Org Soul",
+	"Ability": "S-ATK+20 R-ATK+20 HP+10",
+	"Bonus": "Power Body Stamina"
+},
+{
+	"JPname": "バル・ソール",
+	"ENname": "Bal Soul",
+	"Ability": "R-ATK+20 T-ATK+20 HP+10",
+	"Bonus": "Shoot React Stamina Freeze"
+},
+{
+	"JPname": "リンガ・ソール",
+	"ENname": "Ringa Soul",
+	"Ability": "S-ATK+20 T-ATK+20 HP+10",
+	"Bonus": "Technique Mind Stamina Wind Resist"
+},
+{
+	"JPname": "ソーマ・ソール",
+	"ENname": "Soma Soul",
+	"Ability": "S-ATK+20 R-ATK+20 PP+2",
+	"Bonus": "Power Body Spirita Fire Resist"
+},
+{
+	"JPname": "タガミカヅチ・ソール",
+	"ENname": "Tagamikazuchi Soul",
+	"Ability": "R-ATK+20 T-ATK+20 PP+2",
+	"Bonus": "Shoot React Spirita Shock Affix"
+},
+{
+	"JPname": "イザネカヅチ・ソール",
+	"ENname": "Izane Soul",
+	"Ability": "S-ATK+20 R-ATK+20 T-ATK+20 PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "マリューダ・ソール",
+	"ENname": "Malluda Soul",
+	"Ability": "S-ATK+20 T-ATK+20 PP+2",
+	"Bonus": "Technique Mind Spirita Poison"
+},
+{
+	"JPname": "メデューナ・ソール",
+	"ENname": "Meduna Soul",
+	"Ability": "S-ATK+20 R-ATK+20 HP+5 PP+1",
+	"Bonus": "Power Body Ice Resist"
+},
+{
+	"JPname": "ビブラス・ソール",
+	"ENname": "Vibrace Soul",
+	"Ability": "R-ATK+20 T-ATK+20 HP+5 PP+1",
+	"Bonus": "Shoot React Gloom Resist"
+},
+{
+	"JPname": "ルーサー・ソール",
+	"ENname": "Loser Soul",
+	"Ability": "S-ATK+20 T-ATK+20 HP+5 PP+1",
+	"Bonus": "Technique Mind"
+},
+{
+	"JPname": "リーリー・ソール",
+	"ENname": "Lilli Soul",
+	"Ability": "S-ATK+20 S-DEF+20 HP+20",
+	"Bonus": "Power Body Stamina Shock Resist"
+},
+{
+	"JPname": "ナイトギア・ソール",
+	"ENname": "Knight Gear Soul",
+	"Ability": "S-ATK+15 R-ATK+15 T-ATK+15 PP+4",
+	"Bonus": "Arm"
+},
+{
+	"JPname": "ジャドゥ・ソール",
+	"ENname": "Jhadu Soul",
+	"Ability": "T-DEF+15 HP+45",
+	"Bonus": "Technique Mind Stamina"
+},
+{
+	"JPname": "ネプト・ソール",
+	"ENname": "Nepto Soul",
+	"Ability": "T-ATK+15 PP+4",
+	"Bonus": "Technique Spirita Mind Resist"
+},
+{
+	"JPname": "ニャウ・ソール",
+	"ENname": "Nyau Soul",
+	"Ability": "DEX+15 PP+4",
+	"Bonus": "Arm Spirita Blow Resist"
+},
+{
+	"JPname": "アンガ・ソール",
+	"ENname": "Anga Soul",
+	"Ability": "S-ATK+20 R-ATK+20 T-ATK+20 PP+4",
+	"Bonus": "Vinculum"
+},
+{
+	"JPname": "マガツ・ソール",
+	"ENname": "Magatsu Soul",
+	"Ability": "S-DEF+15 R-DEF+15 T-DEF+15 HP+30 PP+3",
+	"Bonus": "Stamina Spirita"
+},
+{
+	"JPname": "アプレンティス・ソール",
+	"ENname": "Apprentice Soul",
+	"Ability": "S-ATK+40 R-ATK+40 T-ATK+40",
+	"Bonus": "Modulator"
+},
+{
+	"JPname": "グリフォン・ソール",
+	"ENname": "Gryphon Soul",
+	"Ability": "S-ATK+15 R-ATK+15 T-ATK+15 DEX+15 HP+5 PP+3",
+	"Bonus": "Power Shoot Technique All Resist"
+},
+{
+	"JPname": "シノワ・ソール",
+	"ENname": "Sinow Soul",
+	"Ability": "S-ATK+5 DEX+30 HP+25 PP+2",
+	"Bonus": "Arm Stamina Mirage"
+},
+{
+	"JPname": "ダブル・ソール",
+	"ENname": "Double Soul",
+	"Ability": "HP+40 PP+3",
+	"Bonus": "Burn Freeze Shock Mirage Poison Modulator"
+},
+{
+	"JPname": "ダークネス・ソール",
+	"ENname": "Darkness Soul",
+	"Ability": "ALL+15 HP+15 PP+2",
+	"Bonus": "Returner"
+},
+{
+	"JPname": "アストラル・ソール",
+	"ENname": "Astral Soul",
+	"Ability": "All+35 HP+35 PP+5",
+	"Bonus": ""
+},
+{
+	"JPname": "トウオウ・ソール",
+	"ENname": "Toh'oh Soul",
+	"Ability": "Can be combined with certain abilities. All +10",
+	"Bonus": "Yamato Factor"
+},
+{
+	"JPname": "アクト・ジ・ソール",
+	"ENname": "Act The Soul",
+	"Ability": "S-ATK+35 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "ティル・ジ・ソール",
+	"ENname": "Till The Soul",
+	"Ability": "R-ATK+35 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "マギー・ジ・ソール",
+	"ENname": "Magi The Soul",
+	"Ability": "T-ATK+35 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "アレス・ジ・ソール",
+	"ENname": "Ares The Soul",
+	"Ability": "S-ATK+25 R-ATK+25 T-ATK+25 HP+35 PP+3",
+	"Bonus": ""
+},
+{
+	"JPname": "フルベガス・ソール",
+	"ENname": "Full Vegas Soul",
+	"Ability": "Can be combined with certain abilities. S-ATK+15 R-ATK+15 T-ATK+15",
+	"Bonus": "Mother Factor"
+},
+{
+	"JPname": "エスカード・ソール",
+	"ENname": "Escarde Soul",
+	"Ability": "Can be combined with certain abilities. S-ATK+10 R-ATK+10 T-ATK+10 +20 DEX",
+	"Bonus": "Deus Factor"
+},
+{
+	"JPname": "ファーブラ・ソール",
+	"ENname": "Fabula Soul",
+	"Ability": "Can be combined with certain abilities. S-ATK+10 R-ATK+10 T-ATK+10 +20 HP",
+	"Bonus": "Omega Reverie Elder Reverie Loser Reverie Apprezina Reverie"
+},
+{
+	"JPname": "イストリア・ソール",
+	"ENname": "Historia Soul",
+	"Ability": "Can be combined with certain abilities. S-DEF+25 R-DEF+25 T-DEF+25 HP+30 PP+2",
+	"Bonus": "Omega Reverie Elder Reverie Loser Reverie Apprezina Reverie"
+},
+{
+	"JPname": "エーテル・ソール",
+	"ENname": "Ether Soul",
+	"Ability": "ALL+15 HP+15 PP+2",
+	"Bonus": ""
+},
+{
+	"JPname": "JP Name",
+	"ENname": "EN Name",
+	"Ability": "Effect",
+	"Bonus": ""
+},
+{
+	"JPname": "アルティメットバスター",
+	"ENname": "Ultimate Buster",
+	"Ability": "Boost damage against Aberrations by 10%",
+	"Bonus": ""
+},
+{
+	"JPname": "オメガバスター",
+	"ENname": "Omega Buster",
+	"Ability": "Boost damage against Demons by 3%",
+	"Bonus": ""
+},
+{
+	"JPname": "フォトンコレクト",
+	"ENname": "Photon Collect",
+	"Ability": "Boost synthesis transfer rate of Status Effect Abilities.",
+	"Bonus": ""
+},
+{
+	"JPname": "ソールレセプター",
+	"ENname": "Soul Receptor",
+	"Ability": "Boosts transfer rate of Soul Abilities. ALL+10",
+	"Bonus": ""
+},
+{
+	"JPname": "ギフトレセプター",
+	"ENname": "Gift Receptor",
+	"Ability": "Boosts transfer rate of Gift Abilities. ALL+10",
+	"Bonus": ""
+},
+{
+	"JPname": "ソール・カタリスト",
+	"ENname": "Soul Catalyst",
+	"Ability": "HP+10 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "ファクター・カタリスト",
+	"ENname": "Factor Catalyst",
+	"Ability": "HP+10 PP+1",
+	"Bonus": ""
+},
+{
+	"JPname": "オフェンス・ブースト",
+	"ENname": "Offense Boost",
+	"Ability": "S-ATK +15	R-ATK +15	T-ATK +15	DEX +25	PP +1",
+	"Bonus": ""
+},
+{
+	"JPname": "ディフェンス・ブースト",
+	"ENname": "Defense Boost",
+	"Ability": "S-DEF +25	R-DEF +25	T-DEF +25	HP +55	PP +1",
+	"Bonus": ""
+},
+{
+	"JPname": "アタックレセプター",
+	"ENname": "Attack Receptor",
+	"Ability": "Greatly increases the affix rate of ATK abilities. All+5",
+	"Bonus": ""
+},
+{
+	"JPname": "ガードレセプター",
+	"ENname": "Defense Receptor",
+	"Ability": "Greatly increases the affix rate of DEF abilities. All+5",
+	"Bonus": ""
+},
+{
+	"JPname": "フォトンレセプター",
+	"ENname": "Photon Receptor",
+	"Ability": "Greatly increases the affix rate of Stamina and Spirita. All+5",
+	"Bonus": ""
+},
+{
+	"JPname": "エクストレセプター",
+	"ENname": "Extreceptor",
+	"Ability": "Significantly increases Flict, Alter and certain IV, V abilities success rate during affixing. All+10",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイズレセプター",
+	"ENname": "Phrase Receptor",
+	"Ability": "Boosts transfer rate of Phrase Abilities. ALL+10",
+	"Bonus": ""
+},
+{
+	"JPname": "センテンスレセプター",
+	"ENname": "Sentence Receptor",
+	"Ability": "\"Boosts transfer rate of Sentence Abilities. ALL+10\"",
+	"Bonus": ""
+},
+{
+	"JPname": "メセタフィーバーⅠ",
+	"ENname": "Meseta Fever I",
+	"Ability": "Meseta Droprate +5%",
+	"Bonus": ""
+},
+{
+	"JPname": "メセタフィーバーⅡ",
+	"ENname": "Meseta Fever II",
+	"Ability": "Meseta Droprate +10%",
+	"Bonus": ""
+},
+{
+	"JPname": "メセタフィーバーⅢ",
+	"ENname": "Meseta Fever III",
+	"Ability": "Meseta Droprate +15%",
+	"Bonus": ""
+},
+{
+	"JPname": "ＥＸＰブーストⅠ",
+	"ENname": "EXP Boost I",
+	"Ability": "Experience Gained +5%",
+	"Bonus": ""
+},
+{
+	"JPname": "ＥＸＰブーストⅡ",
+	"ENname": "EXP Boost II",
+	"Ability": "Experience Gained +7",
+	"Bonus": ""
+},
+{
+	"JPname": "ＥＸＰブーストⅢ",
+	"ENname": "EXP Boost III",
+	"Ability": "Experience Gained +10",
+	"Bonus": ""
+},
+{
+	"JPname": "アナザーヒストリー",
+	"ENname": "Another History",
+	"Ability": "Experience Gained +10%",
+	"Bonus": ""
+},
+{
+	"JPname": "ラッキーライズⅠ",
+	"ENname": "Lucky Rise I",
+	"Ability": "Item Drop Rate +5%",
+	"Bonus": ""
+},
+{
+	"JPname": "ラッキーライズⅡ",
+	"ENname": "Lucky Rise II",
+	"Ability": "Item Drop Rate +7%",
+	"Bonus": ""
+},
+{
+	"JPname": "ラッキーライズⅢ",
+	"ENname": "Lucky Rise III",
+	"Ability": "Item Drop Rate +10%",
+	"Bonus": ""
+},
+{
+	"JPname": "テンプテーション",
+	"ENname": "Temptation",
+	"Ability": "Item Drop Rate +10%",
+	"Bonus": ""
+},
+{
+	"JPname": "フレッシュ・サイン",
+	"ENname": "Fresh Sign",
+	"Ability": "Boost EXP gained by 30% until Lv.30 only.",
+	"Bonus": ""
+},
+{
+	"JPname": "エンぺ・エンブレイス",
+	"ENname": "Empe Embrace",
+	"Ability": "Adds 90 EXP to NT weapon grinds.",
+	"Bonus": ""
+},
+{
+	"JPname": "ＮＴウェポンブースト",
+	"ENname": "NT Weapon Boost",
+	"Ability": "Adds 800 EXP to NT weapon grinds.",
+	"Bonus": ""
+},
+{
+	"JPname": "ポリタン・スマイル",
+	"ENname": "Polytan Smile",
+	"Ability": "Adds 25 EXP to NT weapon grinds.",
+	"Bonus": ""
+},
+{
+	"JPname": "アークマ・スマイル",
+	"ENname": "Arkuma Smile",
+	"Ability": "Adds 25 EXP to NT weapon grinds.",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイズ・ウィーク",
+	"ENname": "Phrase Weak",
+	"Ability": "Increase damage by 2% when hitting enemy Elemental Weakness.",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイズ・レスポンス",
+	"ENname": "Phrase Response",
+	"Ability": "ATK PP Recovery boosted by 5%.",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイズ・レスポンス",
+	"ENname": "Phrase Recovery",
+	"Ability": "PP Recovery Rate boosted by 5%.",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイズ・チェイス",
+	"ENname": "Phrase Chase",
+	"Ability": "Increases damage by 5% against enemies with Status Effects.",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイズ・チェイス",
+	"ENname": "Phrase Reduce",
+	"Ability": "PP consumption decreases	by 4%.",
+	"Bonus": ""
+},
+{
+	"JPname": "フレイズ・ディケイ",
+	"ENname": "Phrase Decay",
+	"Ability": "Increases damage by 5% against enemies affected by Jellen.",
+	"Bonus": ""
+},
+{
+	"JPname": "JPname",
+	"ENname": "ENname",
+	"Ability": "Ability",
+	"Bonus": "Bonus"
+}
